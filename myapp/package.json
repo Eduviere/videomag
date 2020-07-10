@@ -1,0 +1,14 @@
+{
+  "name": "videomag",
+  "version": "1.0.0",
+  "description": "video and music template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mCode",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
